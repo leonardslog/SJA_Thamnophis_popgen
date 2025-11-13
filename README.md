@@ -1,2 +1,2 @@
-# San Juan Archipelago gartersnake comparative population genetics
-supporting code from a preliminary study on the population structure of a Pacific Northwest Thamnophis assemblage
+# San Juan Archipelago Gartersnake comparative population genetics
+This repo contains code for population structure inference, demographic modeling, and figure generation using tool. Repo will be updated with SRA links to the study's genomic datasets upon manuscript acceptance.
